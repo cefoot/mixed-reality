@@ -8,7 +8,7 @@ ms.topic: article
 keywords: Windows Mixed Reality, HoloLens, magic window, parallax
 ---
 
-
+Jesse was here
 
 # Case study - Looking through holes in your reality
 
